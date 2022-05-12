@@ -18,5 +18,6 @@ function numbers(number){
 function operacao(op){
 
     document.getElementById('print').innerHTML= num1 + ' + '
-    num2 = document.getElementById('print').innerHTML.split()
+    //num2 = document.getElementById('print').innerHTML.split()
+    //ver a questão do segundo numero da operação usando o split e ver como usar split pelo link do slide de js do gsa
 }
